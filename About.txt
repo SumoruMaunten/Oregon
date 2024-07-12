@@ -1,0 +1,57 @@
+][
+
+Introduction
+
+Hello!  Thank you for using Oregon Public Defender Pro 2.0!  This program is available for FREE and is Open-Source.  The code repository is available on GitHub.  My name is Weston Koyama; I am a public defender in Portland, Oregon and an amateur programmer stuck in the 1990s as a grade-school student tinkering with Pascal scripts and HyperCard.  Unfortunately, HyperCard is long gone, but the xTalk programming language survives in different forms, most notably as proprietary software licensed by LiveCode but also in the form of OpenXTalk, which is available for free and is also Open-Source.
+
+I will likely develop a non-Open-Source version that will be available (if not already available) on the Mac App Store for a very nominal one-time charge.  The non-Open-Source version mostly has cosmetic changes to make it different enough from the free version that it qualifies as a different App (the Apple Mac App Store disallows fully Open-Source software).  My purpose for putting a version of the App on the Mac App Store is to allow people who aren't comfortable downloading stuff from a web browser and running it on their machine to use my app.
+
+However, I am a licensed attorney in Oregon and if I ever distributed malware, I would likely be disbarred and forfeit the right to practice my profession ever again.  So you can probably trust me; if unsure, have one of your nerdy friends examine my code (which is available on GitHub) to verify for yourself that this isn't malware.
+
+][
+
+Why should you use my app?  Because it's free.  All other billing software I could find is not free.  
+
+][
+
+Why should you NOT use my app?  Because it doesn't do what you need.  This app is stripped down and simple by design.  This app assumes you are a SOLO practitioner and have ONE source of payment (the public defense agency).  This app assumes Oregon's public defense agency, but you can modify that and use it in other states as well.
+
+][
+
+What is the most important thing to know about the app?  All data is stored on the local hard disk.  NOTHING is stored in the cloud.  TL;DR:  BACK UP YOUR STUFF.
+
+][
+
+Will you make a mobile version for iPhone/Android?  Maybe.  I'm a public defender.  We kind of have a lot on our hands (see below).
+
+][
+
+What can I do to support you and public defense in general?
+
+(1) Lobby for criminal justice reform.  Contrary to popular belief, the criminal justice system in the United States is NOT broken: our criminal justice system is working exactly as intended which is to say with maximum arbitrariness, maximum coerciveness, and maximum cruelty.  Yes, our criminal justice system is arbitrary, coercive, and cruel BY DESIGN.  The system doesn't need to be fixed like you fix a broken window.  The system needs to be radically reformed.  Support leaders who advocate for radical reform.  Abolishing prison would be a good start.
+
+Wait, wait, but won't dangerous people be on the street if we abolish prison?
+
+No.  There are ways to segregate truly violent people from the rest of society without depriving people of human dignity.  See what countries without prisons (like Norway) are actually doing to ensure public safety.
+
+(2) Lobby for more money for public defense.  This is Number 2 because public defenders really should not be as in demand as they are.  The reason we have a critical shortage is because Number 1 is not being addressed.  
+
+(3) Decriminalizing controlled substances is not enough; we must legalize their possession and use and REGULATE distribution through controlled channels to prevent overdose death.  Substance use disorder is treatable and the most effective treatment for that (and for most things in life) is NEVER abstinence.
+
+(4) This may be redundant to Number 3, but you should support universal health care and universal mental health care.
+
+(5) And while we're at it: lobby for universal basic income, housing, and food.  I've defended more than a few charges involving grocery stores where my client was literally just needing something to eat.
+
+(6) Keep obscene material legal.  Statistically speaking, high usage of such material is strongly correlated with LOWER rates of sex crimes.
+
+(7) "Defund the police" should not be a controversial sentence.  The reason the sentence is controversial is because we have come to rely on police to do too much.  Instead, we should pour that money into crisis intervention services that don't involve uniformed people with guns.
+
+(8) Advocate for immigration reform that doesn't involve literal concentration camps and a federal secret police Gestapo, gives people a fighting chance at full integration, and suffrage to participate in our political process.
+
+(9) Support reproductive rights and family planning, particularly for people who bear children, but also for anyone who could contribute to the birth of a child.
+
+(10) End the death penalty nationwide.  For so many reasons.  But in a sentence, the death penalty is a morally repugnant vestige of our savage past.
+
+If you use this app, then PLEASE share the message above everyone you know who is willing to listen!!!!!!!!!!!!!!!!
+
+
